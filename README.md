@@ -15,6 +15,7 @@ Connections:
 * ESP GND pin to far left pin on DHT
 * ESP 3V pin to far right pin on DHT
 
+Instaling CH340 Driver (ESP 32) with board connected.
 
 Arduino IDE config:
 * Adding addres http://arduino.esp8266.com/stable/package_esp8266com_index.json as addisional URL for board manager
